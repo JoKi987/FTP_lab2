@@ -17,3 +17,16 @@
       establishes the command channel and data channel to server.
       reads the commands from stdin and handles them accordingly.
       -----------------------------------------------------------------------------
+      
+      Commands:
+      * Put 'file_name'
+      * Get 'file_name'
+      * ls - server's 
+      * cd 'dir_name'
+      * pwd
+      * !ls
+      * !cd 'dir_name'
+      * !pwd
+      * quit
+         
+      -----------------------------------------------------------------------------          
